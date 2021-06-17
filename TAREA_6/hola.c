@@ -8,6 +8,6 @@
 int main()
 {
 	printf( "Hola Mundo." );
-	
+	printf("..............")  /*Cambio realizado*/
 	return 0;
 }
